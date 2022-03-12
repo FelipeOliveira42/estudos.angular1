@@ -17,4 +17,8 @@ produtos = produtos;
   window.alert('O produto foi compartilhado');
   }
 
+  onNotify() {
+    window.alert('Você será notificado quando o produto estiver à venda');
+  }
+
 }
